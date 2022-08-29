@@ -1,6 +1,6 @@
 <?php
 
-require_once 'day1.php';
+require_once 'grid.php';
 
 // grid of hashes
 echo (printGrid(8));
